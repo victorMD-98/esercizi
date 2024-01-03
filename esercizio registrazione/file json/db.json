@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "email": "ciccio25@example.com",
+      "password": "$2a$10$ZvdtsZz0MiE/MxA8mU6Pp.MBtd2Iqq0aM/B6fAke8VpUIpaXyNVWG",
+      "n": "victor",
+      "c": "joltoianu",
+      "e": "25",
+      "id": 1
+    },
+    {
+      "email": "ciccio257@example.com",
+      "password": "$2a$10$MTZOeol6.hgbotwMZv6tBOWslTz9J5V.rn0LRmii/fPVvoOAYE4Y.",
+      "n": "sara",
+      "c": "norvegese",
+      "e": "27",
+      "id": 2
+    },
+    {
+      "email": "gorlenco.maria@intelligente.com",
+      "password": "$2a$10$E2oZ.cc4s2tmSCZ3dU.E6OhFFFoXmNpmkdFHE5gTQ7ybJE38ousMy",
+      "n": "maria",
+      "c": "gorlenco",
+      "e": "21",
+      "id": 3
+    }
+  ],
+  "prodotti": [
+    {
+      "marca": "asdawd",
+      "modello": "",
+      "categoria": "sdawd",
+      "prezzo": "",
+      "quantita": "23",
+      "immagine": "",
+      "id": 1
+    }
+  ]
+}
